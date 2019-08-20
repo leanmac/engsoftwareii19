@@ -1,0 +1,21 @@
+exercicio01
+
+npm install jest
+criar src
+	nome.js
+	nome.test.js
+criar package.json
+	{
+		"scripts" : {
+			"test" : "jest"
+		}
+	}
+	
+para rodar => npm run test
+------------------------
+TODO:
+Criar um arquivo com as 4 operacoes matematicas basicas (+, -, * e /)
+Implementar pelo menos 2 test para cada função
+
+DOCUMENTACAO:
+https://jestjs.io/en/
